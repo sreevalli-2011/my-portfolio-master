@@ -11,7 +11,7 @@ This portfolio is meticulously designed and developed to highlight my expertise 
 
 ## Live Demo
 
-Explore my live portfolio: [Your Vercel Link Here (once deployed)]
+Explore my live portfolio:'https://my-portfolio-master-theta.vercel.app/'
 
 ## Projects Featured:
 
